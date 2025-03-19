@@ -76,7 +76,31 @@ if answer == "B":
 else:
     print(f"{answer} is incorrect. The correct answer is B.")
 
-# ToDO(Gagtan, Hanz Matthew): Do question 7 and 8
+# Question 7
+print("\n7. (Hanz Matthew A. Gagtan) What does HTML stand for?")
+print("a) HyperText Markup Language\t\tc) HyperText Markdown Language")
+print("b) HyperText Markdown Language\t\td) HyperText Markup Leveler")
+
+answer = input("Enter your answer: ").upper()
+
+if answer == "A":
+    print("A is correct!")
+    score += 1
+else:
+    print(f"{answer} is incorrect. The correct answer is A.")
+
+# Question 8
+print("\n8. (Hanz Matthew A. Gagtan) Which of the following is an example of an operating system?")
+print("a) Microsoft Word\tc) Google Chrome")
+print("b) Windows 10\t\td) Microsoft Excel")
+
+answer = input("Enter your answer: ").upper()
+
+if answer == "B":
+    print("B is correct!")
+    score += 1
+else:
+    print(f"{answer} is incorrect. The correct answer is B.")
 
 # ToDO(Causon, Miko Lorenz): Do question 9 and 10
 
