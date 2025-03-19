@@ -3,8 +3,8 @@ score = 0
 
 # Question 1
 print("\n1. (Aaron Kyle D. Efondo) What is the primary function of a router?")
-print("a) Connectivity \tb) Storage")
-print("c) Processing \t\td) Output") 
+print("a) Connectivity \tc) Processing")
+print("b) Storage \t\td) Output") 
 
 answer = input("Enter your answer: ").upper()
 
@@ -16,8 +16,8 @@ else:
 
 # Question 2
 print("\n2. (Aaron Kyle D. Efondo) What does 'HTTP' stand for?")
-print("a) HyperText Transfer Protocol \t\tb) High Text Transfer Protocol")
-print("c) Hyper Tech Transmission Protocol \td) High Transfer Text Protocol")
+print("a) HyperText Transfer Protocol \tc) Hyper Tech Transmission Protocol")
+print("b) High Text Transfer Protocol \td) High Transfer Text Protocol")
 
 answer = input("Enter your answer: ").upper()
 
@@ -29,8 +29,8 @@ else:
 
 # Question 3
 print("\n3. (Fernette Pearl Franco) Who is the first programmer?")
-print("a) Grace Hopper \tb) Charles Babbage")
-print("c) Charles Darwin \td) Ada Lovelace")
+print("a) Grace Hopper \tc) Charles Darwin")
+print("b) Charles Babbage \td) Ada Lovelace")
 
 answer = input("Enter your answer: ").upper()
 
@@ -42,8 +42,8 @@ else:
 
 # Question 4
 print("\n4. (Fernette Pearl Franco) Which file format is used for web pages?")
-print("a) .txt \tb) .html")
-print("c) .csv \td) .docx")
+print("a) .txt \tc) .csv")
+print("b) .html \td) .docx")
 
 answer = input("Enter your answer: ").upper()
 
