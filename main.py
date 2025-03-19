@@ -50,7 +50,31 @@ if answer == "B":
 else:
     print(f"{answer} is incorrect. The correct answer is B")
 
-# ToDO(Lopez, Jakim): Do question 5 and 6
+# Question 5
+print("\n5. (Jakim D. Lopez) Which of the following is a comparison operator in Python?")
+print("a) =\t\tc) #")
+print("b) ==\t\td) &&")
+
+answer = input("Enter your answer: ").upper()
+
+if answer == "B":
+    print("B is correct!")
+    score += 1
+else:
+    print(f"{answer} is incorrect. The correct answer is B.")
+
+# Question 6
+print("\n6. (Jakim D. Lopez) Which data type in Python is used to represent whole numbers?")
+print("a) float\tc) decimal")
+print("b) int\t\td) double")
+
+answer = input("Enter your answer: ").upper()
+
+if answer == "B":
+    print("B is correct!")
+    score += 1
+else:
+    print(f"{answer} is incorrect. The correct answer is B.")
 
 # ToDO(Gagtan, Hanz Matthew): Do question 7 and 8
 
