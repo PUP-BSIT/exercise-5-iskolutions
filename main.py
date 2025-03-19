@@ -131,7 +131,7 @@ if answer == "C":
     print(f"{answer} is correct!")
     score += 1
 else:
-    print(f"{answer} is incorrect. The correct answer is B.")
+    print(f"{answer} is incorrect. The correct answer is C.")
 
 # Result
 print(f"\nCongratulations! You got {score} out of 10 items.")
