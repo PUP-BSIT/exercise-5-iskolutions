@@ -92,7 +92,7 @@ else:
     print(f"{answer} is incorrect. The correct answer is A.")
 
 # Question 8
-print("\n8. (Hanz Matthew A. Gagtan) Which of the following is an example of an operating system?")
+print("\n8. (Hanz Matthew A. Gagtan) Which is an operating system?")
 print("a) Microsoft Word\tc) Google Chrome")
 print("b) Windows 10\t\td) Microsoft Excel")
 
