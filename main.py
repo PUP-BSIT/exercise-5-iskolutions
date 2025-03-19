@@ -28,9 +28,9 @@ else:
 
 # Question 3
 print("")
-print("3. (Fernette Pearl Franco) Who wrote the play of Romeo and Juliet?")
-print("a) Jane Austen        \tb) J.K. Rowling")
-print("c) George R.R. Martin \td) William Shakespeare")
+print("3. (Fernette Pearl Franco) Who is the first programmer?")
+print("a) Grace Hopper \tb) Charles Babbage")
+print("c) Charles Darwin \td) Ada Lovelace")
 answer = input("Enter your answer: ").upper()
 if answer == "D":
     print(f"{answer} is correct!")
@@ -40,9 +40,9 @@ else:
 
 # Question 4
 print("")
-print("4. (Fernette Pearl Franco) The largest planet in the solar system?")
-print("a) Earth \tb) Jupiter")
-print("c) Mars \td) Saturn")
+print("4. (Fernette Pearl Franco) Which file format is used for web pages?")
+print("a) .txt \tb) .html")
+print("c) .csv \td) .docx")
 answer = input("Enter your answer: ").upper()
 if answer == "B":
     print(f"{answer} is correct!")
