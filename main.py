@@ -51,7 +51,8 @@ else:
     print(f"{answer} is incorrect. The correct answer is B")
 
 # Question 5
-print("\n5. (Jakim D. Lopez) Which of the following is a comparison operator in Python?")
+print("\n5. (Jakim D. Lopez) Which of the following is a" 
+      "comparison operator in Python?")
 print("a) =\t\tc) #")
 print("b) ==\t\td) &&")
 
@@ -64,7 +65,8 @@ else:
     print(f"{answer} is incorrect. The correct answer is B.")
 
 # Question 6
-print("\n6. (Jakim D. Lopez) Which data type in Python is used to represent whole numbers?")
+print("\n6. (Jakim D. Lopez) Which data type in Python to"
+      "represent whole numbers?")
 print("a) float\tc) decimal")
 print("b) int\t\td) double")
 
